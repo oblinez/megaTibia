@@ -1,0 +1,19 @@
+{
+	"clientVersion": "13.32",
+	"launcherVersion": "0.1",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{
+			"name": "assets"
+		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
+		}
+	],
+	"clientFolder": "MegaCorp",
+	"newClientUrl" : "https://github.com/oblinez/megaTibia/releases/download/client/client_portable.zip",
+	"clientExecutable": "MegaCorp.exe"
+}
